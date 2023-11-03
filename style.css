@@ -1,0 +1,865 @@
+/* Font Cdn Link */
+@import url(https://db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+SemiBold);
+
+/* Navbar */
+.navbar-brand img {
+    width: 40px;
+    height: 40px;
+}
+
+li.nav-item {
+    margin: 0 15px;
+}
+a.nav-link.active {
+    font-size: 16px;
+    font-family: sodosans, sans-serif;
+    font-weight: 600;
+    border-bottom: 3px solid #00754a;
+    color: #212529;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin: 0 42px;
+}
+a.nav-link {
+    font-size: 16px;
+    font-family: sodosans, sans-serif;
+    font-weight: 500;
+    color: #212529;
+}
+.form-input-custom-search-box {
+    border-radius: 1.25rem;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+    border: none;
+    width: 284px;
+    font-size: 14px;
+    font-weight: 300;
+}
+form.d-flex {
+    margin: 0 75px 0 0;
+}
+form img.fa-search {
+    position: absolute;
+    margin: 9px 18px 0 6px;
+}
+.form-input-custom-search-box {
+    border-radius: 1.25rem;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+    border: none;
+    width: 284px;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 6px 28px;
+}
+.account-thin img {
+    width: 32px;
+    height: 32px;
+}
+
+/* Green Panel */
+section.green-panel {
+    background: #1e3932;
+    height: 66px;
+    margin: 66px 0 0 0;
+}
+.green-panel h5 {
+    color: #fff;
+    margin: 20px 0 0 138px;
+    font-size: 20px;
+    font-family: sodosans_light, sans-serif;
+    font-weight: 300;
+}
+button.btn.btn-sm-rounded {
+    border-radius: 32px;
+    margin: 13px 0 0 251px;
+    font-size: 12px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 300;
+}
+
+/* Handcrafted Curations */
+section.handcrafted {
+    margin: 29px 0 0 0;
+}
+.handcrafted h5 {
+    font-size: 24px;
+    font-family: sodosans_bold, sans-serif;
+    font-weight: 700;
+}
+
+.cat-img {
+    margin: 0 0 0 46px;
+}
+.cat-img span {
+    display: inline-block;
+    margin: 41px 136px 0 -44px;
+}
+span img.img-rounded {
+    border-radius: 50%;
+    width: 108px;
+    height: 108px;
+}
+p.cat {
+    margin: 9px 0 0 20px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+
+/* Banner */
+section.banner {
+    margin: 85px 0 0 0;
+}
+.banner .card-content1 {
+    background: url(../asset/img/banner.png);
+    width: 1294px;
+}
+.banner .card-content2 {
+    background: url(../asset/img/Rectangle.png);
+    width: 1294px;
+}
+.banner .card-content3 {
+    background: url(../asset/img/Rectangle1.png);
+    width: 1294px;
+}
+.banner .img-left img {
+    width: 100px;
+    height: 193.3px;
+    margin: 14px 0 0 0;
+}
+section.banner .card-detail p.card-title-top {
+    font-size: 14px;
+    font-family: sodosans_regular, sans-serif;
+    margin: 20px 0 14px 0;
+    font-weight: 400;
+    color: #242C33;
+}
+section.banner .card-detail p.card-head {
+    font-size: 20px;
+    font-family: sodosans_regular, sans-serif;
+    font-weight: 600;
+    margin: 0;
+}
+section.banner .card-detail p.card-title-middle {
+    font-size: 14px;
+    font-family: sodosans_regular, sans-serif;
+    font-weight: 400;
+    margin: 0 0 49px 0;
+    color: #242C33;
+}
+section.banner .card-detail p.price-title {
+    font-size: 12px;
+    font-family: sodosans_light, sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+section.banner .card-detail p.price {
+    font-size: 14px;
+    font-family: sodosans_regular, sans-serif;
+    font-weight: 600;
+    margin: 0 0 20px 0;
+}
+section.banner .card-detail span.round-figure {
+    font-size: 12px;
+    font-family: sodosans_regular, sans-serif;
+    font-weight: 600;
+}
+.banner .img-right {
+    float: right;
+    margin: -87px -963px 22px 0;
+}
+.card-content1 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    font-size: 12px;
+    border: 0;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+    background: #00754a;
+    color: #fff;
+    border-radius: 20px;
+    width: 175px;
+    height: 45px;
+    margin: 20px -39px 0 0;
+}
+.card-content2 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    font-size: 12px;
+    border: 0;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+    background: #00754a;
+    color: #fff;
+    border-radius: 20px;
+    width: 175px;
+    height: 45px;
+    margin: 20px -39px 0 0;
+}
+.card-content3 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    font-size: 12px;
+    border: 0;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+    background: #00754a;
+    color: #fff;
+    border-radius: 20px;
+    width: 175px;
+    height: 45px;
+    margin: 20px -39px 0 0;
+}
+
+/* Latest Offering */
+section.latest {
+    margin: 50px 0 0 0;
+    padding: 15px 0 10px 0;
+}
+.latest h5.lts {
+    font-size: 24px;
+    font-family: sodosans_bold, sans-serif;
+    font-weight: 600;
+    margin: 0 0 18px 0;
+    color: #1e3932;
+}
+.latest .card {
+    width: 25rem;
+}
+.latest img.card-img-top {
+    height: 167px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.latest .card-body {
+    background: #f9f9f9;
+}
+span.badge {
+    color: #009966;
+    margin: -17px 280px 0 -90px;
+    float: right;
+    background: #e6eded;
+    font-size: 10px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+.latest h5.card-title {
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+    margin: 0 0 -7px 0;
+}
+.latest span.subtitle {
+    font-size: 10px;
+    font-family: pike_regular, sans-serif;
+    font-weight: 400;
+    color: #6c757d;
+}
+.latest p.card-text {
+    font-size: 11px;
+    font-family: sodosans_light, sans-serif;
+    font-weight: 200;
+    color: #6c757d;
+    margin: 28px 0 0 0;
+}
+.latest .card-footer-custom {
+    margin: 28px 0 0 0;
+}
+.latest .card-footer-custom h4 {
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.latest .card-footer-custom span.round-figure {
+    font-size: 12px;
+    font-family: sodosans_semi, sans-serif;
+    font-weight: 600;
+}
+.latest .card-footer-custom button.btn.btn-green.btn-sm-rounded {
+    margin: -30px 17px 0 0;
+    float: right;
+    color: #fff;
+    background: #00754a;
+    padding: 4px 24px;
+    font-size: 12px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+
+/* Barista Recommends */
+section.barsita {
+    background: #EDEBE9;
+    margin: 45px 0 0 0;
+    padding: 31px 0 22px 0;
+}
+
+.barsita h5 {
+    font-size: 24px;
+    display: inline-block;
+    margin: 0 0 0 0px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.barsita h6 {
+    float: left;
+    margin: -28px 0 0 1217px;
+    font-size: 12px;
+    font-family: sodosans_semibold, sans-serif;
+    color: #00754a;
+    font-weight: 600;
+    cursor: pointer;
+}
+.barsita .card.strawberry {
+    width: 565px;
+}
+.strawberry img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin: 61px 0 -62px 27px;
+}
+.barsita .strawberry img.img-veg {
+    display: inline-flex;
+    margin: -65px 0 0 113px;
+    width: 6%;
+    height: 6%;
+    object-fit: cover;
+}
+.barsita .strawberry h5.card-title {
+    display: inline-block;
+    margin: 0 0 0 -33px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.barsita .strawberry p.card-text {
+    font-size: 10px;
+    font-family: pike_regular, sans-serif;
+    font-weight: 500;
+    color: #6c757d;
+    margin: -3px 118px;
+}
+.barsita .strawberry .card-footer-custom h4 {
+    font-size: 14px;
+    font-family: sodosans_semi_bold, sans-serif;
+    font-weight: 600;
+    margin: 16px 0 0 23px;
+    padding: 22px 0;
+}
+.barsita .strawberry .button {
+    margin: -66px 0 13px -88px;
+}
+.barsita .strawberry button.custom-btn.btn-green.btn-sm-rounded {
+    margin: 22px 0 23px 493px;
+    font-size: 14px;
+    font-family: sodosans_semi_bold, sans-serif;
+    border: 0;
+    background: #00754a;
+    color: #fff;
+    border-radius: 15px;
+    padding: 6px 18px;
+}
+.barsita .card.vanilla {
+    width: 565px;
+    margin: 0 -50px;
+}
+.vanilla img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin: 61px 0 -62px 27px;
+}
+.barsita .vanilla img.img-veg {
+    display: inline-flex;
+    margin: -65px 0 0 113px;
+    width: 6%;
+    height: 6%;
+    object-fit: cover;
+}
+.barsita .vanilla h5.card-title {
+    display: inline-block;
+    margin: 0 0 0 -33px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.barsita .vanilla p.card-text {
+    font-size: 10px;
+    font-family: pike_regular, sans-serif;
+    font-weight: 500;
+    color: #6c757d;
+    margin: -3px 118px;
+}
+.barsita .vanilla .card-footer-custom h4 {
+    font-size: 14px;
+    font-family: sodosans_semi_bold, sans-serif;
+    font-weight: 600;
+    margin: 16px 0 0 23px;
+    padding: 22px 0;
+}
+.barsita .vanilla .button {
+    margin: -66px 0 13px -88px;
+}
+.barsita .vanilla button.custom-btn.btn-green.btn-sm-rounded {
+    margin: 22px 0 23px 493px;
+    font-size: 14px;
+    font-family: sodosans_semi_bold, sans-serif;
+    border: 0;
+    background: #00754a;
+    color: #fff;
+    border-radius: 15px;
+    padding: 6px 18px;
+}
+
+/* Learn more about the world of coffee */
+section.learn-more {
+    background: #edebe9;
+    margin: 50px 0 0 0;
+    padding: 26px 0 23px 0;
+}
+.learn-more h5 {
+    font-size: 24px;
+    display: inline-block;
+    margin: 0 0 36px 0px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.learn-more h6 {
+    display: inline;
+    margin: 0 0 0 757px;
+    font-size: 12.8px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 500;
+    color: #00754a;
+    cursor: pointer;
+}
+.learn-more img.img-rounded {
+    height: 372px;
+    width: 1262px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.overlay {
+    position: absolute;
+    top: 1734px;
+    bottom: 0;
+    left: 168px;
+    right: 0;
+    height: 372px;
+    width: 77%;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: #000000;
+}
+.container:hover .overlay {
+  opacity: 0.4;
+}
+.learn-more .coffee-culture {
+    background: #fff;
+    padding: 9px 25px;
+    width: 108px;
+    height: 29px;
+    font-size: 9px;
+    font-family: sodosans_semi_bold, sans-serif;
+    border-radius: 11px;
+    color: #009966;
+    margin: -349px 0 104px 26px;
+    font-weight: 400;
+    position: relative;
+}
+.learn-more h5.title-card {
+    color: #fff;
+    font-size: 28px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+    margin: 73px 0 0 43px;
+}
+.learn-more p.pro {
+    color: #fff;
+    margin: 8px 0 -46px 43px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+.learn-more button {
+    margin: 69px 0 50px 38px;
+    font-size: 12px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+    color: #000000;
+    border: 0;
+    padding: 3px 36px;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+/* Footer Header */
+section.footer-header {
+    background: #0e382c;
+    margin: 82px 0 0 0;
+    padding: 126px 32px 32px;
+}
+.footer-header h3.text1 {
+    color: #fff;
+    font-size: 18px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.footer-header h3.text2 {
+    color: #fff;
+    font-size: 18px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.footer-header h3.text3 {
+    color: #fff;
+    font-size: 18px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+.footer-header h3.text4 {
+    color: #fff;
+    font-size: 18px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+}
+ul.about {
+    margin: 36px 0 0 0;
+}
+li.abo {
+    margin: 20px 0;
+}
+li.abo a {
+    color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 0 0 -37px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+ul.responsibility {
+    margin: 36px 0 0 0;
+}
+li.rsn {
+    margin: 20px 0;
+}
+li.rsn a {
+    color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 0 0 -37px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+ul.quick {
+    margin: 36px 0 0 0;
+}
+li.qck {
+    margin: 20px 0;
+}
+li.qck a {
+    color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 0 0 -37px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+ul.social {
+    margin: 36px 0 0 -14px;
+}
+li.scl {
+    margin: -2px 23px;
+    display: inline-block;
+}
+li.scl a {
+    color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 0 0 -37px;
+    font-size: 14px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 400;
+}
+li.scl a img {
+    width: 35px;
+    height: 35px;
+}
+.footer-header .image-side img.pb {
+    padding: 0 0 8px;
+    width: 194px;
+    height: 62px;
+}
+.footer-header .image-side img {
+    width: 194px;
+    height: 62px;
+}
+
+/* Footer Bar */
+hr.divider {
+    border: 1px solid #ffffff;
+    margin: 68px 0 0 0;
+}
+ul.ft-legal-list1 {
+    margin: 25px 0 0 -59px;
+}
+ul.ft-legal-list1 li.ft-legal-item {
+    display: inline;
+    margin: 13px;
+}
+ul.ft-legal-list1 li.ft-legal-item a {
+    color: #fff;
+    list-style-type: nonne;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: sodosans_light, sans-serif;
+    font-weight: 400;
+}
+ul.ft-legal-list2 {
+    float: right;
+    margin: -28px -15px -38px 0;
+}
+ul.ft-legal-list2 li.ft-legal-item {
+    list-style-type: none;
+}
+ul.ft-legal-list2 li.ft-legal-item a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 9.6px;
+    font-family: sodosans_light, sans-serif;
+    font-weight: 400;
+}
+
+/* media Query */
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+/* Green Panel */
+  section.green-panel {
+    width: 109%;
+}
+.green-panel h5 {
+    margin: 18px 0 0 118px;
+}
+/* HandCrafted */
+section.handcrafted {
+    width: 109%;
+}
+.cat-img span {
+    margin: 41px 107px 0 -44px;
+}
+/* Banner */
+section.banner {
+    width: 109%;
+}
+.card-content1 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    margin: 20px 116px 0 0;
+}
+.card-content2 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    margin: 20px 116px 0 0;
+}
+.card-content3 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    margin: 20px 116px 0 0;
+}
+/* Latest */
+section.latest {
+    width: 109%;
+}
+.latest .card {
+    width: 22rem;
+}
+span.badge {
+    display: inline;
+    margin: -14px 241px 0 0;
+}
+.veg-newlaunch img {
+    margin: 0 0 0 -6px;
+}
+/* Barsita */
+section.barsita {
+    width: 109%;
+}
+.barsita h6 {
+    margin: -28px 0 0 1053px;
+    font-size: 12px;
+    font-family: sodosans_semibold,sans-serif;
+    font-weight: 600;
+}
+.barsita .card.strawberry {
+    width: 558px;
+}
+.barsita .card.vanilla {
+    margin: 0 20px;
+    width: 558px;
+}
+
+/* Learn More */
+section.learn-more {
+    width: 109%;
+}
+.learn-more h6 {
+    margin: 0 0 0 603px;
+}
+.learn-more img.img-rounded {
+    width: 1135px;
+    margin: 0 -9px;
+}
+.learn-more img.img-rounded {
+    width: 1135px;
+    margin: 0 -9px;
+}
+/* Footer */
+section.footer-header {
+    width: 109%;
+}
+}
+@media screen and (min-width: 900px) and (max-width: 1100px) {
+/* Green Panel */
+section.green-panel {
+    width: 176%;
+}
+.green-panel h5 {
+    margin: 14px 0 0 73px;
+}
+/* HandCrafted */
+section.handcrafted {
+    width: 176%;
+}
+.handcrafted h5 {
+    margin: 0 0 0 -359px;
+}
+/* Banner */
+section.banner {
+    width: 176%;
+}
+.swiper.mySwiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden {
+    margin: 0 -292px;
+}
+/* Latest */
+section.latest {
+    width: 176%;
+    margin: 0 0 0 -128px;
+}
+.latest h5.lts {
+    margin: 10px 0 25px -270px;
+}
+div#card1 {
+    padding: 11px 0;
+}
+.latest .card {
+    width: 14rem;
+}
+span.badge {
+    margin: -18px 99px 0 0;
+}
+/* Barista */
+section.barsita {
+    width: 176%;
+}
+.barsita h5 {
+    margin: 7px 0 26px -461px;
+}
+.barsita h6 {
+    margin: 0 -947px 0 936px;
+}
+.barsita .card.strawberry {
+    margin: 0 -393px;
+    width: 558px;
+}
+.barsita .card.vanilla {
+    margin: 0 -160px;
+    width: 558px;
+}
+/* Learn More */
+section.learn-more {
+    margin: 51px -688px 0 -605px;
+}
+.learn-more h5 {
+    margin: 11px 0 21px -95px;
+}
+.learn-more h6 {
+    margin: 4px -632px 0 0;
+    float: right;
+    font-size: 12px;
+    font-family: sodosans_semibold, sans-serif;
+    font-weight: 600;
+    color: #00754a;
+}
+.overlay {
+    top: 1245px;
+}
+/* Footer Header */
+section.footer-header {
+    margin: 0 -694px 0 -462px;
+}
+.image-side {
+    margin: 0 349px;
+}
+.footer-header h3.text4 {
+    margin: 0 -123px 0 209px;
+}
+ul.social {
+    margin: 12px 0 0 471px;
+}
+li.scl {
+    display: inline;
+    margin: 0 111px 0 -166px;
+}
+li.qck {
+    margin: 4px -182px 0 74px;
+}
+.footer-header h3.text3 {
+    margin: 0 -73px 0 67px;
+}
+h3.text2 {
+    margin: 0 0 0 19px;
+}
+li.rsn {
+    margin: 6px -70px 0 29px;
+}
+hr.divider {
+    margin: 55px 0 0 168px;
+}
+/* Footer Bar */
+ul.ft-legal-list1 {
+    margin: 28px 0 0 -106px;
+}
+ul.ft-legal-list2 {
+    margin: -21px -399px 0 31px;
+}
+}
+@media screen and (min-width: 500px) and (max-width: 800px) {
+/*  Green Panel  */
+section.green-panel {
+    width: 252%;
+}
+/* Handcrafted */
+section.handcrafted {
+    width: 255%;
+    padding: 18px 279px;
+    margin: 0 0;
+}
+/* Banner */
+section.banner {
+    width: 250%;
+    padding: 0 39px;
+}
+.card-content1 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    margin: 8px 109px;
+}
+.card-content2 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    margin: 8px 109px;
+}
+.card-content3 .img-right button.custom-btn.btn-md-rounded.btn-color-dark {
+    margin: 8px 109px;
+}
+}
+@media screen and (max-width: 499px) {
+/*  Green Panel  */
+section.green-panel {
+    width: 319%;
+}
+/* Handcrafted */
+section.handcrafted {
+    width: 320%;
+    padding: 30px 256px;
+}
+
+}
